@@ -1,0 +1,18 @@
+.biografia{
+    border: 1px solid black;
+    width: 60%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    margin-top: 4rem;
+}
+
+h1{
+    font-size: 1.5rem;
+}
+
+p{
+    text-align: justify;
+    font-size: 1rem;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
