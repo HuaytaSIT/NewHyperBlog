@@ -1,18 +1,39 @@
+
 .biografia{
     border: 1px solid black;
     width: 60%;
     margin: 0 auto;
-    padding: 1.5rem;
+    
     margin-top: 4rem;
 }
 
-h1{
-    font-size: 1.5rem;
+.cabecera{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    box-shadow: 1px 3px 5px 2px black;  
+    
 }
 
-p{
+.title{
+    margin: 0;
+    font-weight: bold;
+    padding: 0.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+h1{
+    font-size: 2rem;
+    padding: 1rem 1.5rem 0 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.biografia-text{
     text-align: justify;
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0 1.5rem;
 }
